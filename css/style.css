@@ -75,7 +75,7 @@
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/background.jpg)no-repeat;
+    background-color: #000;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -210,5 +210,30 @@
     100% {
       margin-top: 0;
     }
+  }
+  
+  /*----------------------
+ STYLING FOR THE FOOTER
+-----------------------*/
+/*made the footer background
+colour pinkish and the text white*/
+.footer {
+    background: rgb(255, 45, 255);
+    color: #fff;
+    text-align: center;
+    padding: 2em;
+  }
+  
+  /*made title of the footer bolder*/
+  .footer .footer-title {
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+  }
+  
+  /*changed size of the footer text*/
+  .footer p {
+    font-size: 25px;
+    margin-top: 10px;
   }
   

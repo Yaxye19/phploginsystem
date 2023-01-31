@@ -38,6 +38,11 @@
 
 
     
+
+  <footer class="footer">
+    <span class="footer-title">Yaxye Ali</span>
+    <p>Copyright @2023 Yaxye. All Rights Reserved.</p>
+  </footer>
 </body>
 </html>
 
