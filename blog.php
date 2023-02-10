@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/reset.css">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CONTACT</title>
     <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 </head>
-<body>
+
 <section class="contact" id="contact">
     <div class="title">
       <h2 class="section-title">Contact Me</h2>
@@ -60,5 +59,11 @@
       </div>
     </div>
   </section>
+
+  <footer class="footer">
+    <span class="footer-title">Yaxye Ali</span>
+    <p>Copyright @2023 Yaxye. All Rights Reserved.</p>
+  </footer>
+
 </body>
 </html>

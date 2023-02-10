@@ -5,17 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PHP Login System</title>
-    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
 </head>
+
 <body>
 
 <header>
     <a href="index.php" class="brand">「YAXYE」</a>
     <div class="navigation">
       <a href="index.php">Home</a>
-      <a href="discover.php">About Us</a>
+      <a href="discover.php">About me</a>
       <a href="blog.php">Find Yaxye</a>
       <a href="signup.php">Sign Up</a>
       <a href="login.php">Log in</a>
