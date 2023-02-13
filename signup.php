@@ -31,7 +31,7 @@
           <input type="text" name="email" placeholder="E-mail">
         </div>
         <div class="input-box">
-          <button type="submit" name="submit" class="send-btn">LOGIN</button>
+          <button type="submit" name="submit" class="send-btn">SIGN UP</button>
         </div>
       </form>
     </div>
